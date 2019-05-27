@@ -1,0 +1,7 @@
+C:\Users\Tsatsura-MS\source\repos\P_Decorator\P_Decorator\bin\Debug\P_Decorator.exe.config
+C:\Users\Tsatsura-MS\source\repos\P_Decorator\P_Decorator\bin\Debug\P_Decorator.exe
+C:\Users\Tsatsura-MS\source\repos\P_Decorator\P_Decorator\bin\Debug\P_Decorator.pdb
+C:\Users\Tsatsura-MS\source\repos\P_Decorator\P_Decorator\obj\Debug\P_Decorator.csprojAssemblyReference.cache
+C:\Users\Tsatsura-MS\source\repos\P_Decorator\P_Decorator\obj\Debug\P_Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Tsatsura-MS\source\repos\P_Decorator\P_Decorator\obj\Debug\P_Decorator.exe
+C:\Users\Tsatsura-MS\source\repos\P_Decorator\P_Decorator\obj\Debug\P_Decorator.pdb
